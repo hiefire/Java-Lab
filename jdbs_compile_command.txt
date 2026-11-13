@@ -1,0 +1,2 @@
+Windows: javac -cp ".;mysql-connector-j-26.10.0.jar" p12.java && java -cp ".;mysql-connector-j-26.10.0.jar" p12
+Linux/Mac: javac -cp ".:mysql-connector-j-26.10.0.jar" p12.java && java -cp ".:mysql-connector-j-26.10.0.jar" p12
